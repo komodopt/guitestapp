@@ -9,7 +9,6 @@ mainWindow = Tk()
 
 #Criar menu superior
 mainMenu = Menu(mainWindow)
-
 userMenu = Menu(mainMenu)
 
 #Tamanho da janela
